@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/16166496/183261181-19f14ace-20a0-46ae-
 
 ![test2](https://user-images.githubusercontent.com/16166496/183290001-764ab810-29c0-4e81-973b-28221e2a77da.png)
 
-- text aize auto change
+- text size auto change
 
 ![test3](https://user-images.githubusercontent.com/16166496/183290243-22cc6051-981b-43bf-bfe7-eb5cd6cb1a56.gif)
 
